@@ -9,3 +9,7 @@ frontend/node_modules/
 # Optional local files
 *.log
 .DS_Store
+
+# Environment configuration files
+.env
+.env.example
