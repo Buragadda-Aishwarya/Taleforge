@@ -1,0 +1,11 @@
+# Ignore generated Python virtual environments and archives
+backend/.chroma-venv/
+backend/.chroma-venv.zip
+
+# Ignore node modules and generated dependencies
+backend/node_modules/
+frontend/node_modules/
+
+# Optional local files
+*.log
+.DS_Store
