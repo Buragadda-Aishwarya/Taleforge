@@ -478,12 +478,8 @@ Multi-Agent Architecture
 
 ---
 
-# 👥 Team Vision
-
 > **"We are not building another AI writing tool. We are building an intelligent storytelling companion that remembers, understands, researches, and grows alongside the writer."**
 
 ---
-
-
 
 **TaleForge AI — Where Ideas Take Shape** 🚀📖✨
